@@ -1,0 +1,10 @@
+.git
+.cache
+.vscode
+bin
+obj
+**/node_modules/
+.env
+.env*
+**/.env
+**/.env*
